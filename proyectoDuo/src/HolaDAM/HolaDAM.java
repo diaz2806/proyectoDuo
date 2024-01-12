@@ -18,6 +18,7 @@ public class HolaDAM {
         System.out.println("Hola DAM");
         System.out.println("Modificación del archivo");
         int a=7;
+        System.out.println(a);
     }
     
 }
