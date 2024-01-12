@@ -16,9 +16,10 @@ public class HolaDAM {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola DAM");
-        System.out.println("Modificación del archivo");
-        int a=7;
+        int a=15;
         System.out.println(a);
+        int b=12;
+        System.out.println(b);
     }
     
 }
